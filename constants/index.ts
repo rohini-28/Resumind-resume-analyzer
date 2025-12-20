@@ -230,7 +230,7 @@ export const AIResponseFormat = `
 export const prepareInstructions = ({
   jobTitle,
   jobDescription,
-  AIResponseFormat,
+ 
 }: {
   jobTitle: string;
   jobDescription: string;
