@@ -16,25 +16,30 @@
 
 Build an AI-powered Resume Analyzer with React, React Router, and Puter.js! Implement seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. Get custom feedback and ATS scores tailored to each listing—all wrapped in a clean, reusable UI.
 
+## 🚀 Live Demo & Deployment
+
+🔗 **Live Application**  
+👉 [![Live Demo](https://img.shields.io/badge/🚀%20LIVE-Demo-success?style=for-the-badge)](https://resumemind-alpha.vercel.app/upload)
+
+
 ## 🖼️ Screenshots
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
   <div style="border:1px solid #ddd; border-radius:10px; overflow:hidden; width:300px;">
+    <h3>Home Page</h3>
     <img src="screenshots/homepage.png" alt="Home Page" width="100%">
-    <div align="center"><b>Home Page</b></div>
   </div>
 
   <div style="border:1px solid #ddd; border-radius:10px; overflow:hidden; width:300px;">
+    <h3>Upload Page</h3>
     <img src="screenshots/uploadpage.png" alt="Upload Page" width="100%">
-    <div align="center"><b>Upload Page</b></div>
   </div>
 
   <div style="border:1px solid #ddd; border-radius:10px; overflow:hidden; width:300px;">
-    <img src="screenshots/reviewpage.png" alt="Review Page" width="100%">
-    <div align="center"><b>Review & ATS Score</b></div>
+    <h3>Review Page</h3>
+  <img src="screenshots/reviewpage.png" alt="Review Page" width="100%">
   </div>
-
 </div>
 
 
@@ -109,6 +114,14 @@ npm run dev
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
 ---
+
+## 🚀 Deployment
+
+This application is deployed using **Vercel** for fast, reliable, and scalable hosting.
+
+- The project is built with **React (React Router v7)** and deployed as a static frontend.
+- Continuous deployment is enabled — every push to the `main` branch triggers an automatic redeploy.
+- Environment configuration and build optimizations are handled by Vercel.
 
 ## 🤝 Connect with Me
 
